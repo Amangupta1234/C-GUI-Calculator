@@ -1,4 +1,4 @@
-# C-GUI-Calculator
+# C-GUI-Calculator Using C++
 The project includes working with widgets in many ways, setting up an interface, stylesheets, casting, regular expressions and even more.
 Hope you Guys like This one
 
