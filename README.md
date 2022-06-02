@@ -48,27 +48,3 @@ int main() {
 
   return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Installation:
-Clone by copying it through green clone tab to you terminal
-
-
-
